@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Accordion with Code</title>
+    <style>
+        details {
+            border: 1px solid #aaa;
+            border-radius: 4px;
+            padding: .5em .5em 0;
+            margin: 1em 0;
+        }
+        summary {
+            font-weight: bold;
+            margin: -.5em -.5em 0;
+            padding: .5em;
+        }
+        details[open] {
+            padding: .5em;
+        }
+        details[open] summary {
+            border-bottom: 1px solid #aaa;
+            margin-bottom: .5em;
+        }
+        pre {
+            overflow: auto;
+            padding: 1em;
+            margin: 0;
+            background: #f8f8f8;
+        }
+    </style>
+</head>
+<body>
+    <details>
+        <summary>Mailerlite</summary>
+        Change id to the value of the form. For example, "1170932/d9w0c9.js?v10"
+        <pre><code>
+            {{< mailerlite id="15-minute-meeting" >}}
+        </code></pre>
+    </details>
+    <details>
+        <summary>TidyCal</summary>
+        Change id to the value of the form. For example, "b25"
+        <pre><code>
+            {{< tidycal id="15-minute-meeting" >}}
+        </code></pre>
+    </details>
+</body>
+</html>

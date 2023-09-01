@@ -1,0 +1,87 @@
+---
+title: "EPIC B2B Category (and Content) Creation"
+date: 2018-03-05
+draft: false
+pSeason: "02"
+type: "podcasts"
+pEpisode: "07"
+pGuest: "Idan Hershkovich"
+pRole: "VP Marketing and Growth"
+pCompany: "CATO Networks"
+pURL: Epic-B2B-Category-and-Content-Creation-eicau6
+pApple: https://podcasts.apple.com/us/podcast/epic-b2b-category-and-content-creation/id1353391360?i=1000489177404
+pSpotify: https://open.spotify.com/episode/2OaF38dUNv70YlqgbvcBUK
+pGoogle: https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yOWI1NTgwL3BvZGNhc3QvcnNz/episode/MjM4ODAwZTEtZjY3MC00YWM1LTg1ZDItYjcyYzhlNjRhODE0?sa=X&ved=2ahUKEwieuLTX_7frAhVCeRoKHfZUAssQkfYCegQIARAF
+pAnchor: https://anchor.fm/marketers-in-capes/episodes/Epic-B2B-Category-and-Content-Creation-eicau6
+pPocketcasts: https://pca.st/2w56
+description: "In this episode we interview"  
+tags: [B2B, Content]
+pTranscript: |
+  Eytan Buchman: [00:00:06] Not all marketing is created equally. It might be way easier to market a Lamborghini than, I don’t know, enterprise security software. But if you really want to be blown away by incredible marketing, that’s exactly where you need to look. In this episode of Marketers in Capes with GCMO, we talk with an incredible marketer about the full-stop best, possible way to work with an analyst , how their funnel qualification evolved over three generations and a really cool way to generate content leads with the equivalent of a security SAT test that ended up bringing in 1600 leads before they ever released the content. But before we go any further, my name is Eytan Buchman. You’re wisely investing time in listening to Marketers in Capes. And today we’re talking to Idan from CATO Networks. I’ll let him introduce himself.  
+  Idan Hershkovich: [00:00:57] I’m Idan Hershkovich , I’m doing marketing for the last 10 years in B2B companies. What we do at CATO is basically a revolutionary platform that is called SASE. That’s a new term is basically bundles, networking, and security together under one platform.  
+  Eytan Buchman: [00:01:19] Is that a category that you guys have created or is it something that was in this space already?  
+  Idan Hershkovich: [00:01:23] So it was not in the space. We always consider ourselves as a converged platform of network and security and one of the amazing thing that our CMO did was to discuss this with Gartner for years which eventually led to a coined category by Gartner. That basically portrayed CATO as the poster child of that category.  
+  Eytan Buchman: [00:01:48] That’s amazing. I feel like there’s no better way to own a category than literally create it together with Gartner. What went into that actual process ? How does that happen?  
+  Idan Hershkovich: [00:01:57] Four or five years of discussions with Gartner, ongoing discussions with analysts, there’s a whole movement in the market from an on-prem security, on prem-networking to cloud base. Eh, there was a baby milestone called the history one and SASE evolved from those two.  
+  So basically you can think of it as movement of the market together with our persistent discussing it with Gartner and then the other players basically made the same movement, I guess. So when all styles got aligned, I think that Gartner said, okay, there’s a new category. There are about five vendors that have a potential of, of building such a thing.  
+  CATO already is doing it for several years and now maybe. The next challenge of this is if this would stick in the market or people will dissolve it, or vendors will dissolve it. And luckily everyone basically embraced it. Google SASE, SASE, you’re going to find tons of articles and tons of written content by the vendors by publications and so on saying, okay, that’s basically the next big thing in networking and security, which basically creates a huge wave that we can ride on.  
+  Eytan Buchman: [00:03:29] Internally as a marketing organization, in an area where there’s just like very deep involvement with analysts? How do you need to set up internally?  
+  Idan Hershkovich: [00:03:37] So I think it needs to be someone that is like PMM master. Our CMO is his name is Yishay Yovel. He’s basically is pitching and talking with them, is he knows the in and outs of our product, our, of our market, and the movement in the market and so on. It needs to be someone that is super in the details and very technical. In order to to have an intelligent conversation with an analyst.  
+  Eytan Buchman: [00:04:08] Stepping away a little bit from the analyst side, I mean, if you had to kind of describe your, your marketing strategy as a whole kind of, how would you encapsulate it?  
+  Idan Hershkovich: [00:04:20] What we try to do is to get as many businesses as possible. ,  
+  Eytan Buchman: [00:04:23] That’s a good strategy.  
+  Idan Hershkovich: [00:04:24] Try to find a different quote from differentmarketer. So we try to own the market , as much as possible. We do that with content. So we try to generate a lot of content in order to hit on people on their buying cycle.  
+  So if you think of a buying cycle between someone that is educated or being educating or someone that is in the selection phase, we try to build content that is relevant to each of those stages. That way we can, profilize the person and try to engage him with the right timing. So if someone is only been educated on SASE or only being educated on SD1 has it, and he’s looking and reading content, what is SD1?  
+  The one we know it’s not someone that is worth our time to engage him on a, on a high touch level. I mean, giving that guy, a phone call, but we can nurture that person with content  
+  Eytan Buchman: [00:05:24] How do you actually profile those users or discover what buying stage the users are as they consume your content? Is there any like strategy that you use for that ?  
+  Idan Hershkovich: [00:05:34] One of our most downloadable assets was “How to revaluate your network security vendor.” So that’s the title. Think of a CATO using all of our ammunication in order to promote that kind of content. And then someone downloads it. We can basically do a whole lot of proflization using just that activity because the asset, how to evaluate a network security vendor means that you are upon renewal , you are using a network security gear and you’re probably some kind of a decision maker or at least an influencer because otherwise you won’t be reading this kind of content. So this content basically puts you as a lead with the right labeling saying, okay, this guy is looking for something and then you pick up the phone and call that person, knowing everything that I told you about just because he downloaded that specific asset.  
+  Eytan Buchman: [00:06:39] And do you cross reference that with firmographics or demographics? Or is it all based on the type of content that the person consumes?  
+  Idan Hershkovich: [00:06:47] Definitely, yes. We have a two-dimensional scoring system that consists out of demographic, firmographic activity, and sometimes even intent that we get from third party vendors. We mesh everything, all that data together to generate some kind of a priority score and then to cater it to our next stop in the food chain, which are BDRs.  
+  Eytan Buchman: [00:07:16] Did you start from day one knowing that you need a system like that or did you just slowly evolve into a more sophisticated kind of validation?  
+  Idan Hershkovich: [00:07:26] That’s basically our third generation of scoring. We started with a very linear scoring system – firmographics plus demograhics equals number across threshold, boom, you have an MQL, but then we saw that we need to be smarter. So we moved into two dimensional. Now we have almost three dimensional and we always try to fine tune it with the help of the BDRs they’ll feed back with the help of sales. Basically, when you think of it, the scoring system or the sorting system is not for BDRs, it’s for sales because you try to evaluate what will be the best sale and not the easiest person to outreach to.  
+  Eytan Buchman: [00:08:19] That sounds like music to a salesperson’s ears. I’m sure this industry is very sales or relationship centric. How do you make sure that you and sales are partners together in that?  
+  Idan Hershkovich: [00:08:31] We have an open channel. I’m talking about weeklies. I’m talking about weeklies with sales, weeklies with BDRs, and we constantly read their reject reason. There are two dimensions we can learn from – one will be the source. where did we get this lead from? Is it a from advertising? Is it from social, intent vendor, content syndication, and so on. Secondly, what’s the content that drove this lead to become an MQL. By looking at those two, dimensions, there will be a lot of opportunities to either dial up or down that specific lead.  
+  Eytan Buchman: [00:09:17] And this is like a super tactical question, but I know it’s come up with other people when a BDR or a sales person rejects a lead. Is that a dropdown menu explaining why they rejected or is it a free text?  
+  Idan Hershkovich: [00:09:29] We have a drop down with about 20 different reasons. That that’s a lot, but that’s the only way I think it’s granular enough for us to take action.  
+  Eytan Buchman: [00:09:39] Can you walk me through like your favorite CATO content and how that impacts the marketing and sales funnel.  
+  Idan Hershkovich: [00:09:45] So, I’m going to talk about surveys. So I think are two types of surveys.  
+  All the SaaS vendors or cloud-based vendors that have a lot of data, generate some kind of a data pool survey. That’s something that is really great, very insightful. And that’s basically the trend nowadays. In the past, there were surveys that basically survey people. And we basically took this approach because almost no one is using it anymore. So we thought, what about us ask or survey our target audience in order to generate, some interesting stuff for us to PR about it, to generate some grand awareness, maybe to get some thought leadership, and also we can take this data slice and dice it and generate a lot of content throughout the year. So we took that survey approach.  
+  Eytan Buchman: [00:10:45] The challenge on surveys is always to get people to, to answer, right?  
+  Idan Hershkovich: [00:10:49] The the short answer would be give a thirts to anyone who fills out the survey.  
+  Uh, Just the tshirt. but there is a trick here with that tshirt because one of the incentives is data. We try to make sure that people would submit the survey in order to get peer data. So we say that this survey is anonymous. We know that you are an IT guy because you got this email, you use Survey Monkey, which is kind of the standard . Again, anonymous, people going through 50 something questions. it’s actually works like the opposite, right? The longer is becoming almost better.  
+  Eytan Buchman: [00:11:38] I just want to call one thing out. What you’re basically seeing is that the survey itself is a piece of content, which has huge implications for messaging.  
+  Idan Hershkovich: [00:11:49] Sending a very thorough kind of survey – fifty questions – and every question do you see that you want to get the answers of your peers?  
+  Will your security budget grow in the next year? So people are answering it. We have 1,600 people signing that survey every year?  
+  Eytan Buchman: [00:12:11] How do you get their data if you told them that it’s anonymous?  
+  Idan Hershkovich: [00:12:13] So the last question would be okay, I need your data in order to ship you a tshirt. So almost 90% people are saying, okay, I want to get the tshirt, I invest so much, and, and here are my details. And now you almost know everything, because you ask people if their budget will grow, you ask the people about their security challenge, networking challenges, and so on.  
+  So you can match this data with your use cases. And if there is a match and there is a budget, then there’s no reason not to pick up the phone to that person.  
+  Eytan Buchman: [00:12:54] There’s another proof point that CATO basically sees this as content in and of itself – it has its own micro funnel.  
+  Idan Hershkovich: [00:13:02] 50 questions. We are basically opening wounds. You are saying, okay, there are challenges like this. What are your challenges? What are your pains? And so on. And then on the 50th questions we say, okay, CATO is doing this and this and that. Would you like us to give you a phone call, basically trying to mimic some kind of a contact us request and 5% people are saying, , call me. And you get people that have been educated for questions open up to be contacted , and again, you know, everything, you know, the use case, you know, the pain, they are basically waiting for you to give them a call.  
+  Eytan Buchman: [00:13:50] So then how do you distribute that report? And then like, yeah. Get leads out of it.  
+  Idan Hershkovich: [00:13:54] So up until today, we generate a lot of, a lot of activity and a lot of value just from people answering that survey. So then we generate the report itself. We designed a report with insights and stuff like a 50% of the CIO says that blah, blah, blah.  
+  And then we try to find a hooks for PR. So we had a report, which we started working on the PR. We use the reports first off to give back to everyone who feels it. Here’s the old survey, here’s your data, and maybe the last thing will be, we use this report as friction free content to use on cold leads.  
+  So let’s say I’m trying open a new target market in specific countries, specific vertical. Those leads are super cold. The first email we would send them is not “this is CATO, this is what we do”, it’s “we have been covered by the media about our survey. Enjoy, download it.”  
+  They need that’s where you start, basically start your nurture with the content that is. Definitely not about you. It’s all about the lead.  
+  Eytan Buchman: [00:15:15] Just to be very clear, this is content that drives actual business, right?  
+  Idan Hershkovich: [00:15:18] Exactly, our attribution engine says that it has a lot of revenue pipeline.  
+  Eytan Buchman: [00:15:24] looking back at the time you spent at CATO and I guess in marketing in general, is there anything that you wish you knew on day one?  
+  Idan Hershkovich: [00:15:31] Usually like in the past I was getting away by using business-oriented claims. Okay. Using our technology will solve your issues or we’ll save you X amount of money, but now that I market basically a platform that can basically do everything it’s a whole new terrain for me. So knowing which use case is in the lead right now and to be able to talk about it and to convince, and have a detailed conversation, also a genuine one, with the buyer , why this technology is not just good for two days, also good for tomorrow, and to prove it with the product. That’s an amazing journey for me.  
+  Eytan Buchman: [00:16:23] I think another really important thing that this teaches us is that as a marketer, you really need to start inside. You need to know your product backwards and forwards. If you liked this episode, you can head to buchmabn.co.il for a quick 50 question survey, joking, just joking. You can learn more about CATO at catonetworks.com or head over to buchman.co.il/cato – that’s C A T O for an awesome visual of their B2B funnel tech stack. It’s a serious list of tools that is a result of nearly a decade of trial and error. This may be just the freight marketer in me, echoing again, that anyone can market something sexy. It’s the nuts and bolts of the world that are the real challenge.  
+  Until next time. My name is Eytan Buchman this was an episode of Marketers in Capes with GCMO and I’m going to go design a new t-shirt now
+
+---
+
+The most exciting marketers are in the boring industries (or at least the ones that look boring from the outside).
+
+Massive B2B budgets are thrown around for network security, which makes for a marketing strategy that absolutely must rely heavily on educating, segmenting, and nurturing. Which is where Idan [Hershkovich](https://www.linkedin.com/in/idanonlinemarketing/?originalSubdomain=il), the VP Growth and Marketing at CATO Networks, comes in.
+
+CATO Networks combines some incredible category creation (together with Gartner, no less – seriously, you can see it [here](https://blogs.gartner.com/andrew-lerner/2019/12/23/say-hello-sase-secure-access-service-edge/)), with a fascinating nurture funnel approach (scroll down for a cheat-sheet of theirs), and, coolest of all, a survey-driven content strategy that I heard about from Merav Keren at CATO a year ago (video [here](https://youtu.be/511x0AgG7dY?t=29)) and haven’t been able to shake.
+
+You can see two examples of CATO’s great content [here](https://go.catonetworks.com/rs/245-RJK-441/images/The-Internet-is-Broken-8.pdf) and [here](https://go.catonetworks.com/rs/245-RJK-441/images/HowtoRe-evaluateyourMPLSproviderTheUltimateChecklist-12.pdf). It’s technical but no matter your industry, you’ll appreciate:
+
+  1. How it relates to the users’ problem
+  2. How each document consists of its own internal funnel
+  3. How well CATO avoids getting lost in enterprise mediocre, understated copy
+
+
+Oh, and did I mention you can find a link to review the podcast [here](https://podcasts.apple.com/us/podcast/two-minute-marketing/id1353391360?mt=2)?

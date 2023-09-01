@@ -1,0 +1,64 @@
+baseURL = 'https://10m.co/'
+languageCode = 'en-us'
+title = "Hi! I'm Eytan."
+theme = 'archie'
+copyright = "© Eytan Buchman"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="auto"
+	useCDN=false
+	subtitle = "I ❤️ thoughtful marketing that _earns_ attention.</br> And nice socks."
+    intro = "By day, I make global trade better as the CMO at [Freightos](https://www.freightos.com). By night, I interview marketing heroes on [Marketers in Capes](/podcasts), a short-form marketing podcast. I also share my thoughts on marketing and attention [here](/posts). In the time left, I read a lot, decimate unhealthy amounts of pizza, and love keyboard shortcuts."
+	mainSections = ['posts', 'podcasts']
+	excludedTypes = ['pages']
+	summaryLength = "30"
+
+
+[[params.social]]	
+name = "Twitter"
+icon = "twitter"
+url = "https://x.com/eytanbuchman/"
+
+[[params.social]]	
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://linkedin.com/in/buchman/"
+
+[[menu.main]]
+name = "Articles"
+url = "/posts"
+weight = 1
+
+[[menu.main]]
+name = "Marketers in Capes"
+url = "/podcasts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+[[menu.main]]
+name = "About Me"
+url = "/about"
+weight = 4
+
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 5
+
+
+
+
+[markup.tableOfContents]
+	endLevel = 2
+	ordered = false
+	startLevel = 2
+
+[permalinks]
+	posts = "/:title"
+	podcasts = "/:title"
